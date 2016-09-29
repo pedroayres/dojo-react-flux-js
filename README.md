@@ -13,5 +13,8 @@ A bundler for use in javascript applications.
 #### Requirements:
  - npm
 
- Enjoy it ~
+### How to start:
+ - npm install
+ - npm start
+ - Enjoy it ~
 
